@@ -1,6 +1,6 @@
 # **DESENVOLVIMENTO WEB CLIENTE**
 
-<a href="https://github.com/devweslen/subject-dw/EN-US.md">
+<a href="https://github.com/devweslen/subject-dw/blob/main/EN-US.md">
  <img
     src="https://img.shields.io/badge/English%20Version-informational?style=for-the-badge&logoColor=white&color=44318D"
     alt="Linkedin"
@@ -29,7 +29,6 @@ Repositório pra armazenar atividades/anotações desenvolvidas na disciplina de
 ---
 
 <br/>
-
 
 <strong>Aproveite cada momento!</strong>
 <a href="https://www.weslen.dev/">

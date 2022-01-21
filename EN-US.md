@@ -1,6 +1,6 @@
 # **CLIENT WEB DEVELOPMENT**
 
-<a href="https://github.com/devweslen/subject-dw/README.md">
+<a href="https://github.com/devweslen/subject-dw/blob/main/README.md">
  <img
     src="https://img.shields.io/badge/Versão%20Português-informational?style=for-the-badge&logoColor=white&color=44318D"
     alt="Linkedin"
@@ -29,7 +29,6 @@ Repository to store activities/notes developed in the **Web Client Development**
 ---
 
 <br/>
-
 
 <strong>Enjoy Every Moment!</strong>
 <a href="https://www.weslen.dev/">
