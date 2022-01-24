@@ -2,7 +2,7 @@
 
 ## **Descrição**
 
-Olá, esta é a descrição de um conjunto de atividades assíncronas para a semana. As atvividades aqui relacionadas, quando realizadas por você e entregues dentro do prazo, serão registradas conforme a referência de datas acima. 
+Olá, esta é a descrição de um conjunto de atividades assíncronas para a semana. As atividades  aqui relacionadas, quando realizadas por você e entregues dentro do prazo, serão registradas conforme a referência de datas acima. 
 
 ## **Atividade 1 - Vìdeo: Instalando o VS Code**
 Assista ao video que apresenta a instalação de uma ferramenta que vamos usar com frequência: https://www.youtube.com/watch?v=W1iFa06ccrI
