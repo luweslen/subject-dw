@@ -13,7 +13,7 @@ Repository to store activities/notes developed in the **Web Client Development**
 
 > **College:** [Instituto Federal do Paraná - campus Londrina](https://londrina.ifpr.edu.br) \
 > **Course:** [Tecnologia em Analise e Desenvolvimento de Sistemas](https://londrina.ifpr.edu.br/tecnologia-em-analise-e-desenvolvimento-de-sistemas/componentes-curriculares/) \
-> **Subject:** Desenvolvimento Web Cliente (DW) \
+> **Subject:** Web Client Development \
 > **Professor:** [Augusto Luengo Pereira Nunes](https://www.linkedin.com/in/augusto-luengo-pereira-nunes-phd-3538832b/)
 
 ## 📙 **Folders**

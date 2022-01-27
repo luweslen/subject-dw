@@ -3,7 +3,7 @@
 <a href="https://github.com/devweslen/subject-dw/blob/main/EN-US.md">
  <img
     src="https://img.shields.io/badge/English%20Version-informational?style=for-the-badge&logoColor=white&color=44318D"
-    alt="Linkedin"
+    alt="English Version"
   />
 </a>
 
