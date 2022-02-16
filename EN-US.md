@@ -22,7 +22,7 @@ Repository to store activities/notes developed in the **Web Client Development**
 ┣ 📂 **activities:** contains the activities of the discipline \
 ┃ ┗ 📂 **asynchronous:** asynchronous activities \
 ┃ ┃ ┗ 📂 **activity\_name:** folder with activity \
-┃ ┃ ┃ ┗ 📂 **solution:** activity solution (if necessary) \
+┃ ┃ ┃ ┗ 📂 **answer:** activity solution (if necessary) \
 ┃ ┃ ┃ ┗ 📜 **DETAILS.md:** activity details \
 ┃ ┗ 📂 **evaluative:** evaluative activities
 

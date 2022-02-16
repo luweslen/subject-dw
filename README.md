@@ -22,7 +22,7 @@ Repositório pra armazenar atividades/anotações desenvolvidas na disciplina de
 ┣ 📂 **activities:** contém as atividades da disciplina \
 ┃ ┗ 📂 **asynchronous:** atividades assíncronas \
 ┃ ┃ ┗ 📂 **nome\_da\_atividade:** pasta com a atividade \
-┃ ┃ ┃ ┗ 📂 **solution:** solução da atividade (caso necessário) \
+┃ ┃ ┃ ┗ 📂 **answer:** solução da atividade (caso necessário) \
 ┃ ┃ ┃ ┗ 📜 **DETAILS.md:** detalhes da atividade \
 ┃ ┗ 📂 **evaluative:** atividades avaliativas 
 
