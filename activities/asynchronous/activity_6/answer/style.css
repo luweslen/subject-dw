@@ -1,0 +1,164 @@
+:root {
+  --secondary: #E98074;
+  --primary: #443180;
+  --third: #F93D8A;
+  --white: #ffffff;
+
+  --text-section: #000;
+
+  --background-transparent: linear-gradient(113.96deg, rgba(255, 255, 255, 0.2) 9.24%, rgba(255, 255, 255, 0.05) 89.01%);
+  --background-body: radial-gradient(86.25% 99.66% at 83.52% 9.25%, var(--secondary) 0%, var(--primary) 30.88%, var(--primary) 69.74%, var(--third) 100%);
+  --background-section: var(--white);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  background: var(--background-body);
+  color: var(--white);
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 16px;
+
+  background: var(--background-transparent);
+  backdrop-filter: blur(40px)
+}
+
+header nav ul {
+  display: flex;
+  gap: 8px;
+}
+
+header nav ul li {
+  list-style: none;
+}
+
+header nav ul li a {
+  color: var(--white);
+  text-decoration: none;
+  font-weight: 500;
+
+  transition: all 0.2s ease-in-out;
+}
+
+header nav ul li a:hover {
+  opacity: 0.8;
+}
+
+section {
+  margin: 32px;
+  padding: 16px;
+
+  background: var(--background-section);
+  color: var(--text-section);
+
+  border-radius: 8px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+section h2 {
+  color: var(--primary);
+}
+
+section .cards {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+section .cards article {
+  width: 230px;
+  background: var(--third);
+  color: var(--white);
+  padding: 16px;
+
+  border-radius: 4px;
+}
+
+section#contact button {
+  width: fit-content;
+  background: var(--secondary);
+  border: none;
+  color: var(--white);
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+
+  font-weight: 700;
+
+  transition: all 0.4s ease-in-out;
+}
+
+section#contact button:hover{
+  opacity: 0.8;
+}
+
+aside {
+  width: 320px;
+  position: fixed;
+  bottom: 128px;
+  left: -304px;
+
+  background: var(--primary);
+  padding: 16px;
+
+  border-radius: 4px;
+
+  transition: all 0.4s ease-in-out;
+}
+
+aside.open, aside:hover {
+  left: 0;
+}
+
+aside h4 {
+  color: var(--secondary);
+}
+
+aside form{
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+aside form .input-container{
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+
+}
+aside form .input-container label{
+  font-weight: 700;
+}
+
+aside form .input-container input,
+aside form .input-container textarea{
+  background: var(--background-transparent);
+  color: var(--white);
+
+  font-size: 16px;
+
+  padding: 8px;
+
+  border: 1px solid var(--white);
+  border-radius: 4px;
+}
+
+footer {
+  margin-top: 32px;
+  height: 48px;
+  background: var(--background-transparent);
+}
