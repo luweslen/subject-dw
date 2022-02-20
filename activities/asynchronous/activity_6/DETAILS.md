@@ -1,4 +1,4 @@
-# **Atividades Assíncronas 6 - Folha de Estilo em Cascata**
+# **Atividades Assíncronas 6 - Integração CSS e JS**
 
 ## **Descrição**
 Olá, esta é a descrição de um conjunto de atividades assíncronas para a semana.  As atividades aqui relacionadas, quando realizadas por você e entregues dentro do prazo, serão registradas conforme a referência de datas acima. 
