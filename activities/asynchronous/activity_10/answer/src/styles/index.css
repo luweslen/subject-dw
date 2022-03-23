@@ -1,0 +1,26 @@
+:root {
+  --secondary: #E98074;
+  --primary: #443180;
+  --third: #F93D8A;
+  --white: #ffffff;
+
+  --text-section: #000;
+
+  --background-transparent: linear-gradient(113.96deg, rgba(255, 255, 255, 0.2) 9.24%, rgba(255, 255, 255, 0.05) 89.01%);
+  --background-body: radial-gradient(86.25% 99.66% at 83.52% 9.25%, var(--secondary) 0%, var(--primary) 30.88%, var(--primary) 69.74%, var(--third) 100%);
+  --background-section: var(--white);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 100vw;
+  min-height: 100vh;
+  font-family: Roboto, sans-serif;
+  background: var(--background-body);
+  color: var(--white);
+}
