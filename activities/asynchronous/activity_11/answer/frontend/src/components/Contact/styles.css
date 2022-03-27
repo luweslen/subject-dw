@@ -1,0 +1,50 @@
+aside {
+  width: 320px;
+  position: fixed;
+  bottom: 128px;
+  left: -304px;
+
+  background: var(--primary);
+  padding: 16px;
+
+  border-radius: 4px;
+
+  transition: all 0.4s ease-in-out;
+}
+
+aside.open, aside:hover {
+  left: 0;
+}
+
+aside h4 {
+  color: var(--secondary);
+}
+
+aside form{
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+aside form .input-container{
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+
+}
+aside form .input-container label{
+  font-weight: 700;
+}
+
+aside form .input-container input,
+aside form .input-container textarea{
+  background: var(--background-transparent);
+  color: var(--white);
+
+  font-size: 16px;
+
+  padding: 8px;
+
+  border: 1px solid var(--white);
+  border-radius: 4px;
+}
