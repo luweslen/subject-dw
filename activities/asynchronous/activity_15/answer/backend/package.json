@@ -1,0 +1,21 @@
+{
+  "name": "tcc_back_2021",
+  "version": "1.0.0",
+  "description": "base de projeto para tccs em 2021",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "gutolpn",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.1",
+    "express-load": "^1.1.16",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.0.12"
+  }
+}
